@@ -75,7 +75,7 @@ credit_card_fraud_multiagent/
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/votre-utilisateur/credit_card_fraud_multiagent.git
+git clone https://github.com/HamzaZaroual/credit_card_fraud_multiagent.git
 cd credit_card_fraud_multiagent
 ````
 
